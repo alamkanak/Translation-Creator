@@ -1,0 +1,122 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ===== Initializr Styles ==================================================
+   Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
+   ========================================================================== */
+.mdl-layout__drawer {
+    width: 320px;
+    box-shadow: none;
+}
+.mdl-layout--fixed-drawer>.mdl-layout__content {
+    margin-left: 320px;
+}
+.mdl-layout__header-row {
+    padding-left: 40px;
+    height: auto;
+}
+.tg-file-choser-wrapper {
+    padding: 40px;
+    background-color: #3f51b5;
+    color: #fff;
+    text-align: center;
+}
+.tg-file-choser-title {
+    margin-bottom: 16px;
+}
+.mdl-layout__header--transparent.mdl-layout__header--transparent {
+    background-color: #3f51b5;
+}
+.mdl-layout-title {
+    margin: 80px auto 15px;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 1.35;
+    letter-spacing: -.02em;
+}
+.mdl-layout__header {
+    min-height: 0;
+}
+
+/* Main body */
+.tg-source-text {
+    color: #555;
+}
+
+.tg-source-text-wrapper {
+    padding: 40px;
+}
+.tg-destination-text {
+    border: none;
+    margin: 0;
+    padding: 30px 40px;
+    outline: none;
+    width: 100%;
+    font-size: 20px;
+    line-height: 20px;
+}
+.tg-source-subtitle {
+    margin-top: 20px;
+    color: #aaa;
+}
+.tg-machine-translation-wrapper {
+    padding: 20px 40px;
+}
+.tg-machine-translation {
+    text-transform: none;
+}
+.tg-machine-translation-title {
+    margin-bottom: 15px;
+}
